@@ -1,0 +1,6 @@
+ORIG_PN=PyXML
+inherit distutils
+
+DESCRIPTION="Python XML libraries"
+HOMEPAGE="http://pyxml.sourceforge.net/"
+SRC_URI="mirror://sourceforge/pyxml/${ORIG_PN}-${PV}.tar.gz"
