@@ -1,5 +1,5 @@
 category: Python
-requires: cygwin python
+requires: python
 sdesc: "Python XML modules"
 ldesc: "A package collecting the tools required for writing basic XML
 applications in Python, along with documentation and sample code.
